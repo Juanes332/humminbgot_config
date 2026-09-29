@@ -1,0 +1,8 @@
+[submodule "condor"]
+	path = condor
+	url = https://github.com/hummingbot/condor.git
+	branch = main
+[submodule "hummingbot-api"]
+	path = hummingbot-api
+	url = https://github.com/hummingbot/hummingbot-api.git
+	branch = main
